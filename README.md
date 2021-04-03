@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @djangopaul
 - 👀 I’m interested in having a career in software development
 - 🌱 I’m currently learning differet programming languages(python,java,javascript..)
-- 💞️ I’m looking to collaborate on an upcoming project
+- 💞️ I’m looking to collaborate on any upcoming projects
 - 📫 How to reach me (pmeryner@gmail.com)
 
 <!---
